@@ -1,0 +1,4 @@
+user:cpg
+password:sql123
+host:localhost
+database:cine_db
